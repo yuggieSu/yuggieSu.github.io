@@ -12,23 +12,28 @@ According to my plan, I will get a Master's degree in March 2022, and plan to fi
 
  - [03/2021] One paper has been accepted by IEEE ICME
 
-- Bulleted
-- List
+### Education & Experiences
 
-1. Numbered
-2. List
+- School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnic University, China 
+09/2020 - Present
+- School of Computer, Northwestern Polytechnic University, China
+09/2016 - 07/2020
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+### Awards & Honors
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuggieSu/yuggieSu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Scholarships
+- Nov. 2021, National Scholarship
+- Nov. 2021, Tencent Scholarship, First Class
+- 2020-2021, Academic Scholarship (Master), First Class
+- 2018-2019, Academic Scholarship (Bachelor), First Class
+- Nov. 2017, Academic Scholarship (Bachelor), Second Class
+- 2018-2019, Outstanding Student of the School
+- Nov. 2017, Outstanding Student of the College
+#### Competition Awards
+- Chinese Computer Design Contest, 3rd Prize
+- Microsoft “Imagine Cup” Innovation and Entrepreneurship Competition, 3rd Prize
+- National Electronic Design Creative Innovation and Creativity Competition, 2nd Prize
+- National Mathematical Contest in Modeling (Shaanxi), 2nd Prize
+- College Mathematical Contest in Modeling, 2nd Prize
