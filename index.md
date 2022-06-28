@@ -1,19 +1,9 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Yuejiao Su</h1>
-      <p>Northwestern Polytechnical University</p>
-     <p>School of Artificial Intelligence, OPtics and ElectronNices (iOPEN)</p>
-      <p>yuggie0816@gmail.com</p>
-      <p>127 West Youyi Road, Xi’an, 710072, P.R.China</p>
-    </td>
-    <td width="25%">
-      <img src="/syj.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
+# Yuejiao Su
 
-Welcome to my homepage! 
+Northwestern Polytechnical University
+School of Artificial Intelligence, OPtics and ElectronNices (iOPEN)
+127 West Youyi Road, Xi’an, 710072, P.R.China
+yuggie0816@gmail.com
 
 ### About Me
 
