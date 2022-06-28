@@ -2,10 +2,10 @@
   <tr>
     <td width="75%">
       <h1>Yuejiao Su</h1>
-      <p><b>Northwestern Polytechnical University</b></p>
-     <p><b>School of Artificial Intelligence, OPtics and ElectronNices (iOPEN)</b></p>
-      <p><b>yuggie0816@gmail.com</b></p>
-      <p><b>127 West Youyi Road, Xi’an, 710072, P.R.China</b></p>
+      <p>Northwestern Polytechnical University</p>
+     <p>School of Artificial Intelligence, OPtics and ElectronNices (iOPEN)</p>
+      <p>yuggie0816@gmail.com</p>
+      <p>127 West Youyi Road, Xi’an, 710072, P.R.China</p>
     </td>
     <td width="25%">
       <img src="/syj.jpg" width="100%">     
