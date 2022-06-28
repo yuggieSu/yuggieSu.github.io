@@ -1,8 +1,11 @@
 # Yuejiao Su
 
 Northwestern Polytechnical University
+
 School of Artificial Intelligence, OPtics and ElectronNices (iOPEN)
+
 127 West Youyi Road, Xi’an, 710072, P.R.China
+
 yuggie0816@gmail.com
 
 ### About Me
@@ -34,6 +37,7 @@ According to my plan, I will get a Master's degree in March 2022, and plan to fi
 - Nov. 2017, Academic Scholarship (Bachelor), Second Class
 - 2018-2019, Outstanding Student of the School
 - Nov. 2017, Outstanding Student of the College
+
 #### Competition Awards
 - Chinese Computer Design Contest, 3rd Prize
 - Microsoft “Imagine Cup” Innovation and Entrepreneurship Competition, 3rd Prize
