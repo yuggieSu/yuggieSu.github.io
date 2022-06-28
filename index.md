@@ -17,7 +17,7 @@ Welcome to my homepage!
 
 ### About Me
 
-I am currently pursuing the Master degree in the [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/) at [Northwestern Polytechnic University](https://www.nwpu.edu.cn/), supervised by [Yuan Yuan](http://iopen.nwpu.edu.cn/info/1015/1389.html) and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) professors, collaborating with [Zhiyu Jiang](http://iopen.nwpu.edu.cn/info/1251/1077.html). I received Bachelor degree at School of Computer, Northwestern Polytechnic University in 2020. My research area includes computer vision, deep learning and image/video representation learning.
+I am currently pursuing the Master degree in the [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/) at [Northwestern Polytechnic University](https://www.nwpu.edu.cn/), supervised by [Yuan Yuan](http://iopen.nwpu.edu.cn/info/1015/1389.htm) and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) professors, collaborating with [Zhiyu Jiang](http://iopen.nwpu.edu.cn/info/1251/1077.htm). I received Bachelor degree at School of Computer, Northwestern Polytechnic University in 2020. My research area includes computer vision, deep learning and image/video representation learning.
 
 According to my plan, I will get a Master's degree in March 2022, and plan to find a research group for doctorate. If you are interests in me, please send e-mail to me. Thanks a lot!
 
