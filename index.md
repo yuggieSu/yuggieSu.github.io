@@ -1,6 +1,6 @@
 ## Yuejiao Su
 
-
+Welcome to my homepage! I'm glad to make friends with you.
 
 ### About Me
 
@@ -8,10 +8,9 @@ I am currently pursuing the Master degree in the [School of Artificial Intellige
 
 According to my plan, I will get a Master's degree in March 2022, and plan to find a research group for doctorate. If you are interests in me, please send e-mail to me. Thanks a lot!
 
+### News
 
-# Header 1
-## Header 2
-### Header 3
+ - [03/2021] One paper has been accepted by IEEE ICME
 
 - Bulleted
 - List
