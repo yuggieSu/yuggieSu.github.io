@@ -6,13 +6,13 @@ School of Artificial Intelligence, OPtics and ElectronNices (iOPEN)
 
 127 West Youyi Road, Xi’an, 710072, P.R.China
 
-yuggie0816@gmail.com
+[yuggie0816@gmail.com](yuggie0816@gmail.com)
 
 ### About Me
 
 I am currently pursuing the Master degree in the [School of Artificial Intelligence, Optics and Electronics (iOPEN)](https://iopen.nwpu.edu.cn/) at [Northwestern Polytechnic University](https://www.nwpu.edu.cn/), supervised by [Yuan Yuan](http://iopen.nwpu.edu.cn/info/1015/1389.htm) and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ) professors, collaborating with [Zhiyu Jiang](http://iopen.nwpu.edu.cn/info/1251/1077.htm). I received Bachelor degree at School of Computer, Northwestern Polytechnic University in 2020. My research area includes computer vision, deep learning and image/video representation learning.
 
-According to my plan, I will get a Master's degree in March 2022, and plan to find a research group for doctorate. If you are interests in me, please send e-mail to me. Thanks a lot!
+According to my plan, I will get a Master's degree in March 2023, and plan to find a research group for doctorate. If you are interests in me, please send e-mail to me. Thanks a lot!
 
 ### News
 
@@ -26,6 +26,8 @@ According to my plan, I will get a Master's degree in March 2022, and plan to fi
 09/2016 - 07/2020
 
 ### Publications
+
+
 
 ### Awards & Honors
 
