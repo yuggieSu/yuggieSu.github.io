@@ -6,10 +6,10 @@
     <title>Yuejiao Su</title>
     <meta name="description" content="Yuejiao Su's Homepage" author="Yuejiao Su"/>
 
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">  <!--setting website icons-->
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">  <!--setting website icons-->
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
 
-    <link href="css/plugins.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="css/plugins.css" media="screen" rel="stylesheet" type="text/css" />  <!--Invoke an external CSS style file, herf presents path, rel presents style, type presents file type-css-->
     <link href="css/application.css" media="screen" rel="stylesheet" type="text/css" />
     <script src="js/libs/modernizr-2.6.2.min.js"></script>
   </head>
