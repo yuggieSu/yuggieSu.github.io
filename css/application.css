@@ -17,7 +17,7 @@ a {
   transition: all 0.3s ease;
 }
 
-.site-inner {
+.site-inner {                          /*change the statistic here to change the picture in the page*/
   position: relative;
   width: 88.75em;
   margin-left: auto;
@@ -27,7 +27,7 @@ a {
 .site-inner-abs {
   position: absolute;
   top: 0;
-  left: 75%;
+  left: 50%;
   width: 88.75em;
   margin-left: -44.375em;
 }
