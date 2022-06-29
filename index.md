@@ -1,12 +1,12 @@
 <HTML>
-<html class="no-js">
+<html class="no-js"> <!--check the edge support CSS3 / HTML5 or not--> <!--initial settings-->
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-    <title>3. Lithium</title>
-    <meta name="description" content="Lithium Description" />
+    <meta charset="utf-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"> <!--viewpoint: the region that can show the webpage; content: width-device_width; maximum_scale: maximum scale of web; user-scalable: can user scale page-->
+    <title>Yuejiao Su</title>
+    <meta name="description" content="Yuejiao Su's Homepage" author="Yuejiao Su"/>
 
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">  <!--setting website icons-->
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
     <link href="css/plugins.css" media="screen" rel="stylesheet" type="text/css" />
