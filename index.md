@@ -32,8 +32,8 @@
           </div>
         </header>
 
-        <h1 class="heading h-01">They don't have a choice, but you do.</h1>
-        <p class="sub-header copy-02">There are all kinds of people in this world. It happens that we have become friends. This is not fate. It is just that we should be friends.</p>
+        <h1 class="heading h-01">"They don't have a choice, but you do."</h1>
+        <p class="sub-header copy-02">"There are all kinds of people in this world. It happens that we have become friends. This is not fate. It is just that we should be friends."</p>
         <a href="#" class="arrow-down">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="arrow-down" x="0px" y="0px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve" class=" iconic-injected-svg inject-me">
             <path id="circle" d="M0.2,27.4c-0.2-1.9-0.3-3.4,0-5.3c0.1-0.4,0.2-0.8,0.2-1.1C2.2,9.1,12.3,0.2,24.3,0c8.2-0.1,14.9,3,20.1,9.4  c3,3.8,4.6,8.2,5.3,12.9c0.1,2.5,0.1,2.5,0,4.7c-0.1,0.5-0.2,0.8-0.2,1.3C47.7,40.2,37.9,49.1,26,49.5c-10,0.3-17.5-4-22.7-12.6  C1.5,34,0.7,30.7,0.2,27.4z M2.3,24.7c-0.2,11.6,9.2,22.7,22.6,22.7c13.2,0,22.6-10.7,22.6-22.6c0-12-9.4-22.7-22.6-22.7  C11.4,2.1,2.2,13.3,2.3,24.7z"></path>
@@ -47,8 +47,8 @@
     <!-- ABOUT -->
     <section id="page-about" class="section">
       <div class="site-inner">
-        <p class="copy-01">My name is Vlad Musienko, I'm a web designer. I love to draw and all that is connected with the design. In this area a long time ago and during this time I managed to create several successful projects used by people all over the world. </p>
-        <p class="copy-01">I love the simplicity in the design of web sites. As I see it,people, it's like my work. Naturally do not want to rest on our laurels and will continue further studies to improve soybean skills, creating new interesting creative projects.</p>
+        <p class="copy-01">My name is Yuejiao Su. I am currently pursuing my Master's degree in the School of Artificial Intelligence, Optics and Electronics (iOPEN) (opens new window) at Northwestern Polytechnic University (opens new window), supervised by Yuan Yuan (opens new window) and Xuelong Li (opens new window) professors, collaborating with Zhiyu Jiang (opens new window). I received my Bachelor's degree at the School of Computer (opens new window), Northwestern Polytechnic University in 2020. My research area includes computer vision, deep learning, and multimodal image representation learning. </p>
+        <p class="copy-01">According to my plan, I will get a Master's degree in March 2023 and plan to find a research group for the doctorate. If you are interested in me, please send an e-mail to me. Thanks a lot!</p>
 
         <h1 class="heading h-01">What I Do</h1>
 
